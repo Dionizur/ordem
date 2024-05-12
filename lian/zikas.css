@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/b7/ec/3b/b7ec3b75850b344b981d917109999f40.jpg");
+    background-size: 100%
+}
+.cop{
+    background-color: gray;
+    border: solid black; 
+    border-radius: 5px;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+.cop img{
+    height:100px;
+    width:100px;
+}
