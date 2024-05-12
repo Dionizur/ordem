@@ -5,7 +5,7 @@ body{
 .cop{
     background-color: gray;
     border: solid black; 
-    border-radius: 5px;
+    border-radius: 50px;
 }
 h1{
     color:white;
@@ -14,4 +14,16 @@ h1{
 .cop img{
     height:100px;
     width:100px;
+}
+.cop h1{
+    margin-bottom: 5px;
+}
+.cop table{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.caps{
+    background-color: bisque;
+    margin-left: 30%;
+    margin-right: 30%;
 }
